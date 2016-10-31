@@ -1,1 +1,0 @@
-Não está mostrando o valor de x1 e x2 na GUI.
